@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\Задания Controller\P1\Scripts\ScriptsVUGen\UC1_LoginLogout
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\задания controller\p1\scripts\scriptsvugen\uc1_loginlogout\\logfile.log
+d:\задания controller\p1\scripts\scriptsvugen\uc1_loginlogout\\combined_UC1_LoginLogout.c
+d:\задания controller\p1\scripts\scriptsvugen\uc1_loginlogout\\pre_cci.c

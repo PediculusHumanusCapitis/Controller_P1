@@ -1,0 +1,2 @@
+[Hosts]
+localhost=d:\задания controller\p1\results\results\localhost_1.eve
